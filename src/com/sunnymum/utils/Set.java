@@ -38,7 +38,7 @@ public class Set {
 	// 定义静态变量
 	public final static String evaluate = "都是我们前进的动力!";
 	public final static String timeOut = "网络连接异常，请稍候再试";
-	public final static String ip = "192.168.1.16";// 发送邮件手机端的网络IP地址
+	public final static String ip = "192.168.1.16";// 发送邮件电脑的网络IP地址
 	public final static String networkAnomaly = "网络异常";
 	public final static String freeConsulting = "免费咨询";
 	public final static String patientVisits = "就诊人";
